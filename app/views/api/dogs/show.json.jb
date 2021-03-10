@@ -1,1 +1,7 @@
-{ message: "hi there" }
+{
+  id: @dog.id,
+  name: @dog.name,
+  age: @dog.age,
+  breed: @dog.breed,
+
+}
